@@ -19,3 +19,15 @@
 
 - [ ] todo list
 - [x] done
+
+```javascript =
+function myFunction(p1, p2){
+return p1 * p2;
+}
+```
+
+:smile:
+
+
+:fu:
+:thumbsup:
